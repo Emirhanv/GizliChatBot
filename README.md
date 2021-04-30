@@ -1,3 +1,5 @@
+# BigKnives1_bot - chat bot
+It is repository for chat bot: [@BigKnives1_bot](https://t.me/BigKnives1_bot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
